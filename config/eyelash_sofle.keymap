@@ -92,11 +92,11 @@
 
         layer_3 {
             bindings = <
-&kp ESC    &trans          &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp X      &kp C           &kp Q         &kp W         &kp E         &kp R           &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp Z      &kp LEFT_SHIFT  &kp A         &kp S         &kp D         &kp F           &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp LCTRL  &trans          &kp T         &kp C         &kp V         &kp G           &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans          &trans        &kp LEFT_ALT  &trans        &kp SPACE       &trans  &trans  &trans  &trans  &trans  &trans
+&kp ESC      &kp X           &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LS(TAB)  &kp C           &kp Q         &kp W         &kp E         &kp R           &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp Z        &kp LEFT_SHIFT  &kp A         &kp S         &kp D         &kp F           &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LCTRL    &trans          &kp T         &kp C         &kp V         &kp G           &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans       &trans          &trans        &kp LEFT_ALT  &trans        &kp SPACE       &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
