@@ -196,7 +196,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   '3':
   - $$mdi:keyboard-esc$$
-  - X
+  - T
   - '1'
   - '2'
   - '3'
@@ -209,7 +209,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-tab$$
-  - C
+  - X
   - Q
   - W
   - E
@@ -236,7 +236,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - T
+  - '5'
   - C
   - V
   - G
