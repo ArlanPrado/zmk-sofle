@@ -8,8 +8,6 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/pointing.h>
-#include <dt-bindings/zmk/pointing.h>
-#include <dt-bindings/zmk/pointing.h>
 #include <dt-bindings/zmk/rgb.h>
 
 / {
@@ -96,7 +94,7 @@
 &kp TAB    &kp X           &kp Q         &kp W         &kp E         &kp R           &trans  &trans  &trans          &kp UP_ARROW    &trans           &trans  &trans
 &kp Z      &kp LEFT_SHIFT  &kp A         &kp S         &kp D         &kp F           &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
 &kp LCTRL  &trans          &kp NUMBER_5  &kp C         &kp V         &kp G           &trans  &trans  &trans          &trans          &trans           &trans  &trans
-&trans     &trans          &trans        &kp LEFT_ALT  &mo 1         &kp SPACE       &trans  &trans  &mo 2           &trans          &trans           &trans
+&trans     &trans          &trans        &kp LEFT_ALT  &trans        &kp SPACE       &trans  &trans  &trans          &trans          &trans           &trans
             >;
         };
 
