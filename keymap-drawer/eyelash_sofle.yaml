@@ -17,38 +17,38 @@ layers:
   - $$mdi:keyboard-tab$$
   - Q
   - W
-  - E
-  - R
-  - T
-  - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - Y
-  - U
-  - I
-  - O
+  - F
   - P
+  - B
+  - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
+  - J
+  - L
+  - U
+  - Y
+  - {t: ;, s: ':'}
   - {t: \, s: '|'}
   - $$mdi:apple-keyboard-shift$$
   - A
+  - R
   - S
-  - D
-  - F
+  - T
   - G
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
-  - H
-  - J
-  - K
-  - L
-  - {t: ;, s: ':'}
+  - M
+  - N
+  - E
+  - I
+  - O
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-control$$
   - Z
   - X
   - C
+  - D
   - V
-  - B
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - N
-  - M
+  - K
+  - H
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
@@ -197,11 +197,11 @@ layers:
   - BT CLR ALL
   '3':
   - $$mdi:keyboard-esc$$
-  - T
   - '1'
   - '2'
   - '3'
   - '4'
+  - '5'
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -222,7 +222,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - Z
+  - Y
   - $$mdi:apple-keyboard-shift$$
   - A
   - S
@@ -236,8 +236,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-control$$
-  - {t: '$$mdi:transfer$$', type: trans}
-  - '5'
+  - Z
+  - X
   - C
   - V
   - G
@@ -249,8 +249,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - H
+  - B
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-space$$
