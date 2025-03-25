@@ -317,11 +317,11 @@ layers:
   - $$mdi:apple-keyboard-caps$$
   - LGUI
   - $$mdi:apple-keyboard-option$$
-  - layer1
+  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:apple-keyboard-shift$$
-  - '2'
+  - {t: '$$mdi:transfer$$', type: trans}
   - HOME
   - END
   - $$mdi:backspace-reverse-outline$$
